@@ -2,11 +2,11 @@
 
 *Read this in other languages: [English](README.eng.md), [Português](README.md).*
 
-I'm Benito, aka Benitex on the internet. I'm crazy about videogames, game design e game development, I really like computer programming in general.
+I'm Benito, aka Benitex on the internet. I'm crazy about videogames, game design and game development, I really like computer programming in general.
 
 ## 👦 &nbsp;About me
 
-* &nbsp; Exploring new technologies and developing software programs.
+* &nbsp; Exploring new technologies and solving problems with software programs.
 * &nbsp; Studying **information technology** at <a href="http://www.cefet-rj.br/">Cefet/RJ</a>, 3° grade of Technical High School.
 * &nbsp; Looking for a **internship** in **Rio de Janeiro** or online.
 
@@ -20,7 +20,7 @@ I'm Benito, aka Benitex on the internet. I'm crazy about videogames, game design
  
  🔧 Tools: <strong>Visual Studio Code, Dev C++, RPG Maker XP, Scratch, Git, GitHub.</strong>
  
- ⭐ Information about my GitHub account:
+ ⭐ GitHub account information:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Benitex&show_icons=true)
 
