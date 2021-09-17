@@ -1,6 +1,6 @@
-## 👋 Olá, meu nome é <strong>Benito!</strong>
-
 *Read this in other languages: [English](README.eng.md), [Português](README.md).*
+
+## 👋 Olá, meu nome é <strong>Benito!</strong>
 
 Eu sou Benito, normalmente uso o nome Benitex na internet. Sou apaixonado por videogames, game design e desenvolvimento de jogos, gosto muito de programação no geral.
 
