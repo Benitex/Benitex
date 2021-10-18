@@ -12,11 +12,11 @@ Eu sou Benito, normalmente uso o nome Benitex na internet. Sou apaixonado por vi
 
 &nbsp; Aprendendo mais sobre:
 
-![Ruby Badge](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) ![Javascript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![HTML Badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![CSS Badge](	https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Javascript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![HTML Badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![CSS Badge](	https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![Ruby Badge](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 
 ## 🚀 Minhas Skills
 
- ⌨️ Linguagens: <strong>C, Scratch.</strong>
+ ⌨️ Linguagens: <strong>Java, C, Scratch 3.</strong>
  
  🔧 Ferramentas: <strong>Visual Studio Code, Dev C++, RPG Maker XP, Scratch, Git, GitHub.</strong>
  
