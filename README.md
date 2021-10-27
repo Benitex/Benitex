@@ -1,6 +1,5 @@
-*Read this in other languages: [English](README.eng.md), [Português](README.md).*
-
 ## 👋 Olá, meu nome é <strong>Benito!</strong>
+*Read this in other languages: [English](README.eng.md), [Português](README.md).*
 
 Eu sou Benito, normalmente uso o nome Benitex na internet. Sou apaixonado por videogames, game design e desenvolvimento de jogos, gosto muito de programação no geral.
 
@@ -22,8 +21,9 @@ Eu sou Benito, normalmente uso o nome Benitex na internet. Sou apaixonado por vi
  
  ⭐ Informações sobre minha conta GitHub:
  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Benitex&show_icons=true)
- 
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Benitex&show_icons=true&layout=compactt"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benitex&layout=compact&langscount=7&hide=ruby"/>
+
  ## ✉️ &nbsp;Onde me encontrar
 
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benitoapepe@yahoo.com.br)
