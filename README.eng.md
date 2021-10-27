@@ -22,9 +22,10 @@ I'm Benito, aka Benitex on the internet. I'm crazy about videogames, game design
  
  ⭐ GitHub account information:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Benitex&show_icons=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Benitex&show_icons=true&layout=compactt"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benitex&layout=compact&langscount=7&hide=ruby"/>
 
- ## ✉️ &nbsp;Where can you find me:
+ ## ✉️ &nbsp;Social links
 
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benitoapepe@yahoo.com.br)
 [![Whats App Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](21969738474)
