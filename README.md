@@ -1,33 +1,31 @@
-## 👋 Olá, meu nome é <strong>Benito!</strong>
+## 👋  &nbsp;Olá, meu nome é <strong>Benito!</strong>
 *Read this in other languages: [English](README.eng.md), [Português](README.md).*
 
 Eu sou Benito, normalmente uso o nome Benitex na internet. Sou apaixonado por videogames, game design e desenvolvimento de jogos, gosto muito de programação no geral.
-
-## 👦 &nbsp;Sobre mim
-
 * &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 * &nbsp; Estudando **informática** no <a href="http://www.cefet-rj.br/">Cefet/RJ</a>, 3° ano do Ensino Médio técnico.
 * &nbsp; Procurando vagas de **estágio** no **Rio de Janeiro**.
 
-&nbsp; Aprendendo mais sobre:
+&nbsp;No momento, estou estudando:
 
-![Lua Badge](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Javascript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![HTML Badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![CSS Badge](	https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![Lua Badge](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
 
-## 🚀 Minhas Skills
+---
 
- ⌨️ Linguagens: <strong>Java, C, Scratch 3.</strong>
+### Minhas Skills
+
+⌨️ Linguagens: <strong>Java, Javascript, Lua, C.</strong>
  
- 🔧 Ferramentas: <strong>Visual Studio Code, Dev C++, RPG Maker XP, Scratch, Git, GitHub.</strong>
+🔧 Ferramentas: <strong>Visual Studio Code, LÖVE, RPG Maker XP, GitHub, GitHub Desktop, Scratch.</strong>
  
- ⭐ Informações sobre minha conta GitHub:
+⭐ Informações sobre minha conta GitHub:
  
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Benitex&show_icons=true&layout=compactt"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benitex&layout=compact&langscount=7&hide=ruby"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Benitex&show_icons=true&layout=compactt"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benitex&layout=compact&langscount=7&hide=ruby"/>
 
- ## ✉️ &nbsp;Onde me encontrar
+---
+
+ ### ✉️ &nbsp;Formas de contato
 
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benitoapepe@yahoo.com.br)
-[![Whats App Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](21969738474)
 [![Reddit Badge](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Benitex_Gamer)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benito-andr%C3%A9-pepe-08960519a/) 
-[![Instagram Badge](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/benitexpepe?utm_medium=copy_link)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benito-andr%C3%A9-pepe-08960519a/)
