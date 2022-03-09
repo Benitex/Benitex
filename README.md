@@ -6,17 +6,13 @@ Eu sou Benito, normalmente uso o nome Benitex na internet. Sou apaixonado por vi
 * &nbsp; Estudando **informática** no <a href="http://www.cefet-rj.br/">Cefet/RJ</a>, 3° ano do Ensino Médio técnico.
 * &nbsp; Procurando vagas de **estágio** no **Rio de Janeiro**.
 
-&nbsp;No momento, estou estudando:
-
-![Lua Badge](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
-
 ---
 
 ### Minhas Skills
 
-⌨️ Linguagens: <strong>Java, Javascript, Lua, C.</strong>
+⌨️ Linguagens e Frameworks: <strong>Java, C, Lua, LÖVE, HTML, CSS, Javascript, PHP.</strong>
  
-🔧 Ferramentas: <strong>Visual Studio Code, LÖVE, RPG Maker XP, GitHub, GitHub Desktop, Scratch.</strong>
+🔧 Ferramentas: <strong>Visual Studio Code, RPG Maker XP, GitHub, GitHub Desktop.</strong>
  
 ⭐ Informações sobre minha conta GitHub:
  
@@ -24,7 +20,7 @@ Eu sou Benito, normalmente uso o nome Benitex na internet. Sou apaixonado por vi
 
 ---
 
- ### ✉️ &nbsp;Formas de contato
+### ✉️ &nbsp;Formas de contato
 
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benitoapepe@yahoo.com.br)
 [![Reddit Badge](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Benitex_Gamer)
