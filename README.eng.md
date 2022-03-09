@@ -6,19 +6,15 @@ I'm Benito, aka Benitex on the internet. I'm crazy about videogames, game design
 
 * &nbsp; Exploring new technologies and solving problems with software programs.
 * &nbsp; Studying **information technology** at <a href="http://www.cefet-rj.br/">Cefet/RJ</a>, 3° grade of Technical High School.
-* &nbsp; Looking for a **internship** in **Rio de Janeiro** or online.
-
-&nbsp; I'm learning about:
-
-![Lua Badge](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Javascript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![HTML Badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![CSS Badge](	https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+* &nbsp; Looking for a **internship** in Rio de Janeiro or online.
 
 ---
 
 ### My Skills
 
- ⌨️ Languages: <strong>Java, Javascript, Lua, C.</strong>
+ ⌨️ Languages and Frameworks: <strong>Java, C, Lua, LÖVE, HTML, CSS, Javascript, PHP.</strong>
  
- 🔧 Tools: <strong>Visual Studio Code, LÖVE, RPG Maker XP, GitHub, GitHub Desktop, Scratch.</strong>
+ 🔧 Tools: <strong>Visual Studio Code, RPG Maker XP, GitHub, GitHub Desktop.</strong>
  
  ⭐ GitHub account information:
 
@@ -26,7 +22,7 @@ I'm Benito, aka Benitex on the internet. I'm crazy about videogames, game design
 
 ---
 
- ### ✉️ &nbsp;Social links
+### ✉️ &nbsp;Social links
 
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benitoapepe@yahoo.com.br)
 [![Reddit Badge](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Benitex_Gamer)
