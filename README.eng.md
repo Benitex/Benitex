@@ -4,25 +4,28 @@
 
 I'm Benito, aka Benitex on the internet. I'm crazy about videogames, game design and game development, I really like computer programming in general.
 
-* &nbsp; Exploring new technologies and solving problems with software programs.
-* &nbsp; Studying **information technology** at <a href="http://www.cefet-rj.br/">Cefet/RJ</a>, 3° grade of Technical High School.
-* &nbsp; Looking for a **internship** in Rio de Janeiro or online.
+* Exploring new technologies and solving problems with software programs.
+* Studying **information technology** at <a href="http://www.cefet-rj.br/">Cefet/RJ</a>, 4° grade of Technical High School.
 
 ---
 
 ### My Skills
 
- ⌨️ Languages and Frameworks: <strong>Java, C, Lua, LÖVE, HTML, CSS, Javascript, PHP.</strong>
+⌨️ Languages and Frameworks: **Java, C, Lua, LÖVE, HTML, CSS, Javascript, PHP.**
  
- 🔧 Tools: <strong>Visual Studio Code, RPG Maker XP, GitHub, GitHub Desktop.</strong>
+📖 I'm learning about: **Dart e Flutter**.
  
- ⭐ GitHub account information:
+🔧 Tools: **Visual Studio Code, RPG Maker XP, GitHub, GitHub Desktop.**
+
+---
+
+### ⭐ GitHub account information:
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Benitex&show_icons=true&layout=compactt"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benitex&layout=compact&langscount=7&hide=ruby"/>
 
 ---
 
-### ✉️ &nbsp;Social links
+### ✉️ Social links
 
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benitoapepe@yahoo.com.br)
 [![Reddit Badge](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Benitex_Gamer)
