@@ -20,7 +20,7 @@ Eu sou Benito, normalmente uso o nome Benitex na internet. Sou apaixonado por vi
 
 ### ⭐ Informações da conta do GitHub:
  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Benitex&show_icons=true&layout=compactt"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benitex&layout=compact&langscount=7&hide=ruby"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Benitex&show_icons=true&layout=compactt"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benitex&layout=compact&exclude_repo=Pokemon-Burning-Scales,Pokemon-Hunter"/>
 
 ---
 
