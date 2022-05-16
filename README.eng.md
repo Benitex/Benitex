@@ -21,7 +21,7 @@ I'm Benito, aka Benitex on the internet. I'm crazy about videogames, game design
 
 ### ⭐ GitHub account information:
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Benitex&show_icons=true&layout=compactt"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benitex&layout=compact&langscount=7&hide=ruby"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Benitex&show_icons=true&layout=compactt"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benitex&layout=compact&exclude_repo=Pokemon-Burning-Scales,Pokemon-Hunter"/>
 
 ---
 
