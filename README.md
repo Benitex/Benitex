@@ -6,7 +6,7 @@ If you don't know where to start, here's a breakdown of the projects I've been w
 
 | Vulturis | Echoes of the Rainforest |
 | :---: | :---: |
-| Vulturis | ![Echoes of the Rainforest](https://img.itch.zone/aW1nLzE0OTkxMTAyLmpwZw==/315x250%23c/8Df7gq.jpg) |
+| ![image](https://github.com/user-attachments/assets/c42a9823-dfa7-4c60-931e-af5997905cda) | ![Echoes of the Rainforest](https://img.itch.zone/aW1nLzE0OTkxMTAyLmpwZw==/315x250%23c/8Df7gq.jpg) |
 | **Vulturis** is the game I'm working on right now. It's a metroidvania in which you can transform into any enemy and use their special abilities to navigate the map, exploring new areas according to the forms you've unlocked. | [Echoes of the Rainforest](https://poteiga.itch.io/echoes-of-the-rainforest) is a top-down action RPG game about preservation, colonialism, and folklore. The story takes place in a fantasy setting inspired by Brazilian history and folklore, taking on its themes and characters. |
 
 | Pokemon Burning Scales | Automatic Level Scaling |
